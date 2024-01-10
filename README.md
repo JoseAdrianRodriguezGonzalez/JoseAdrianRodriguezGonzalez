@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAdrianRodriguezGonzalez)](https://github.com/JoseAdrianRodriguezGonzalez/github-readme-stats)
