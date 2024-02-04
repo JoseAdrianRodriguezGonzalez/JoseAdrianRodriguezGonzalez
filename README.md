@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+#### I'm Jose Adrian
+> I'm a student in AI and DataScience, who has been interesed on all kind of topics inside of Computer Science
+> Firtsly, I've gotten into coding due to Arduino and micrcontrolles, then I've become an enthusiast on web developvment, which I'm currently working on websites, as also, I've published one website.
+> 
 <!--
 **JoseAdrianRodriguezGonzalez/JoseAdrianRodriguezGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
