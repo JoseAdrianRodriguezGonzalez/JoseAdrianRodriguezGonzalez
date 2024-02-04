@@ -1,11 +1,11 @@
 ### Hi there 👋
 #### I'm Jose Adrian
-> I'm a student in AI and DataScience, who has been interesed on all kind of topics inside of Computer Science
-> Firtsly, I've gotten into coding due to Arduino and micrcontrolles, then I've become an enthusiast on web developvment, which I'm currently working on websites, as also, I've published one website.
+
 > 
 <!--
 **JoseAdrianRodriguezGonzalez/JoseAdrianRodriguezGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+> I'm a student in AI and DataScience, who has been interesed on all kind of topics inside of Computer Science
+> Firtsly, I've gotten into coding due to Arduino and micrcontrolles, then I've become an enthusiast on web developvment, which I'm currently working on websites, as also, I've published one website.
 Here are some ideas to get you started:
  
 - 🔭 I’m currently working on ...
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAdrianRodriguezGonzalez&langs_count=18&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAdrianRodriguezGonzalez&langs_count=13&layout=donut)
