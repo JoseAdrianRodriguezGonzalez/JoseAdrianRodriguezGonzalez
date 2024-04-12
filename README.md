@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true&theme=cobalt&show=reviews,prs_merged,prs_merged_percentage)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAdrianRodriguezGonzalez&langs_count=10&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAdrianRodriguezGonzalez&langs_count=16&layout=donut)
 
 
 
