@@ -17,10 +17,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 <a href="https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&width=320">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&width=320" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&width=320" />
  </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAdrianRodriguezGonzalez&langs_count=16&layout=donut&width=320">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAdrianRodriguezGonzalez&langs_count=16&layout=donut&width=320" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAdrianRodriguezGonzalez&langs_count=16&layout=donut&width=200" />
 </a>
 <!--
 ![Jose Adrian GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage)
