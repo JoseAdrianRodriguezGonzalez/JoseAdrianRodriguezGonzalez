@@ -18,8 +18,10 @@
 - ⚡ Fun fact: ...-->
 You can contact me on:
 Lepopardo@hotmail.com 
+
 https://www.linkedin.com/in/josé-adrián-rodríguez-gonzález-6628a51a8
 Currently,I'll need to edit more my Linkedin
+
 <a href="https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&width=320">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&width=220" />
  </a>
