@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm Jose Adrian,
 
->    
+>
 <!--**JoseAdrianRodriguezGonzalez/JoseAdrianRodriguezGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 > I'm a student in AI and DataScience, who has been interesed on all kind of topics inside of Computer Science
