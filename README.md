@@ -4,7 +4,7 @@
 >
 <!--**JoseAdrianRodriguezGonzalez/JoseAdrianRodriguezGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-> I'm a student in AI and DataScience, who has been interesed on all kind of topics inside of Computer Science
+> I'm a student in AI and DataScience, who has been interesed on all kind of topics inside of Computer Science 
 > Firtsly, I've gotten into coding due to Arduino and microcontrollers, then I've become an enthusiast on web development, which I'm currently working on websites, as also, I've published one website.
 <!--Here are some ideas to get you started:
  
