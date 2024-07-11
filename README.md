@@ -17,7 +17,7 @@
 - ⚡ Fun fact: ...-->
 You can contact me on:
 
-Lepopardo@hotmail.com 
+[E-mail](Lepopardo@hotmail.com) 
 
 https://www.linkedin.com/in/josé-adrián-rodríguez-gonzález-6628a51a8
 
