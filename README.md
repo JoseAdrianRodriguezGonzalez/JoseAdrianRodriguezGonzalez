@@ -2,12 +2,13 @@
 #### I'm Jose Adrian,
 >
 <!--**JoseAdrianRodriguezGonzalez/JoseAdrianRodriguezGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->  
-> I'm a student in AI and DataScience, who has been interesed on all kind of topics inside of Computer Science
-> Firtsly, I've gotten into coding due to Arduino and microcontrollers, then I've become an enthusiast on web development, which I'm currently working on websites, as also, I've published one website.
+-->  </p> 
 <h1 align="center">Hi 👋, I'm José Adrián</h1>
 <h3 align="center">A passionate full-stack developer, microcontrollers, AI, App development, Data science and Computational Simulations</h3>
 
+<p>Firtsly, I've gotten into coding due to Arduino and microcontrollers, then I've become an enthusiast on web development, which I'm currently working on websites, as also, I've published one website.
+<p>I'm a student in AI and DataScience, who has been interesed on all kind of topics inside of Computer Science
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseadrianrodriguezgonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="joseadrianrodriguezgonzalez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseadrianrodriguezgonzalez" alt="joseadrianrodriguezgonzalez" /></a> </p>
