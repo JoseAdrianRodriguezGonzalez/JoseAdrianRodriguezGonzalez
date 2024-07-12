@@ -23,7 +23,7 @@
 - [E-mail](Lepopardo@hotmail.com) 
 
 [linkedin](https://www.linkedin.com/in/josé-adrián-rodríguez-gonzález-6628a51a8)
-![snake gif](https://github.com/JoseAdrianRodriguezGonzalez/JoseAdrianRodriguezGonzalez/blob/ca934fc88d957f7833c6611c32d03caf3ff8e493/github-contribution-grid-snake.gif)
+
 Currently,I'll need to edit more my Linkedin
 
 
@@ -46,4 +46,7 @@ Currently,I'll need to edit more my Linkedin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAdrianRodriguezGonzalez&langs_count=16&layout=donut)
 -->
 
+
+
+![snake gif](https://github.com/JoseAdrianRodriguezGonzalez/JoseAdrianRodriguezGonzalez/blob/output/github-contribution-grid-snake.gif)
 
