@@ -36,7 +36,7 @@ Currently,I'll need to edit more my Linkedin
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseadrianrodriguezgonzalez&" alt="joseadrianrodriguezgonzalez" /></p>You can contact me on:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseadrianrodriguezgonzalez&" alt="joseadrianrodriguezgonzalez" /></p>
 <a href="https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&width=320">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&width=220" />
  </a>
