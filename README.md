@@ -19,7 +19,7 @@ You can contact me on:
 
 [E-mail](Lepopardo@hotmail.com) 
 
-https://www.linkedin.com/in/josé-adrián-rodríguez-gonzález-6628a51a8
+[linkedin](https://www.linkedin.com/in/josé-adrián-rodríguez-gonzález-6628a51a8)
 
 Currently,I'll need to edit more my Linkedin
 
