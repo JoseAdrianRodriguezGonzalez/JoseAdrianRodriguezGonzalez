@@ -23,7 +23,7 @@
 - [E-mail](Lepopardo@hotmail.com) 
 
 [linkedin](https://www.linkedin.com/in/josé-adrián-rodríguez-gonzález-6628a51a8)
-
+![snake gif](https://github.com/JoseAdrianRodriguezGonzalez/JoseAdrianRodriguezGonzalez/blob/ca934fc88d957f7833c6611c32d03caf3ff8e493/github-contribution-grid-snake.gif)
 Currently,I'll need to edit more my Linkedin
 
 
@@ -39,7 +39,7 @@ Currently,I'll need to edit more my Linkedin
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&width=220&locale=en"  alt="joseadrianrodriguezgonzalez" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseadrianrodriguezgonzalez&" alt="joseadrianrodriguezgonzalez" /></p>
-![snake gif] (https://github.com/JoseAdrianRodriguezGonzalez/JoseAdrianRodriguezGonzalez/blob/ca934fc88d957f7833c6611c32d03caf3ff8e493/github-contribution-grid-snake.gif)
+
 <!--
 ![Jose Adrian GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAdrianRodriguezGonzalez&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage)
 <!--
