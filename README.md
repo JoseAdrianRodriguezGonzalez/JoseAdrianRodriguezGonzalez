@@ -48,5 +48,5 @@ Currently,I'll need to edit more my Linkedin
 
 
 
-![snake gif](https://github.com/JoseAdrianRodriguezGonzalez/JoseAdrianRodriguezGonzalez/blob/output/github-contribution-grid-snake.gif)
 
+![snake gif](https://github.com/JoseAdrianRodriguezGonzalez/JoseAdrianRodriguezGonzalez/blob/output/github-contribution-grid-snake.gif)
