@@ -1,6 +1,6 @@
 ### Hi there 👋 
-#### I'm Jose Adrian, 
-<!--**JoseAdrianRodriguezGonzalez/JoseAdrianRodriguezGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Jose Adrian,
+<!--**JoseAdrianRodriguezGonzalez si/JoseAdrianRodriguezGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->  </p>    
 <h1 align="center">Hi 👋, I'm José Adrián</h1>
 <h3 align="center">A passionate full-stack developer, microcontrollers, AI, App development, Data science and Computational Simulations</h3>
