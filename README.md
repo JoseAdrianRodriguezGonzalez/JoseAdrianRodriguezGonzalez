@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Improve skills on the frameworks that I know and learn more languages and tools**
 
-- 💬 Ask me about **Arduino, python, web development**
+- 💬 Ask me about **Arduino, python, web development** 
 
 - 📫 How to reach me **kerpador@gmail.com**
 - [E-mail](Lepopardo@hotmail.com) 
