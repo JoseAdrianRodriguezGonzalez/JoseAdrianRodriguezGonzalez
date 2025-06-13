@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseadrianrodriguezgonzalez" alt="joseadrianrodriguezgonzalez" /></a> </p>
 
 - 🔭 I’m currently working on **Hibrydization, a project that looks to simulate several physical phenomens and some websites**
-
+ 
 - 🌱 I’m currently learning **Improve skills on the frameworks that I know and learn more languages and tools**
 
 - 💬 Ask me about **Arduino, python, web development** 
