@@ -7,7 +7,7 @@
   
 <p>Firtsly, I've gotten into coding due to Arduino and microcontrollers, then I've become an enthusiast on web development, which I'm currently working on websites, as also, I've published one website.
 <p>I'm a student in AI and DataScience, who has been interesed on all kind of topics inside of Computer Science
-</p>
+</p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseadrianrodriguezgonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="joseadrianrodriguezgonzalez" /> </p>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseadrianrodriguezgonzalez" alt="joseadrianrodriguezgonzalez" /></a> </p>
