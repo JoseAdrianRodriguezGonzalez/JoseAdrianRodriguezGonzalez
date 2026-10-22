@@ -2,7 +2,7 @@
 #### I'm Jose Adrian,  
 <!--**JoseAdrianRodriguezGonzalez si/JoseAdrianRodriguezGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 --></p> 
-<h1 align="center">Hi 👋, I'm José Adrián</h1>
+<h1 align="center">Hi 👋, I'm José Adrián</h1> 
 <h3 align="center">A passionate full-stack developer, microcontrollers, AI, App development, Data science and Computational Simulations</h3>
 
 <p>Firtsly, I've gotten into coding due to Arduino and microcontrollers, then I've become an enthusiast on web development, which I'm currently working on websites, as also, I've published one website.
